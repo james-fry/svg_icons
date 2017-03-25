@@ -40,10 +40,10 @@
      inkscape:window-width="1548"
      inkscape:window-height="937"
      id="namedview3768"
-     showgrid="false"
-     inkscape:zoom="27.812867"
-     inkscape:cx="14.002441"
-     inkscape:cy="12.122282"
+     showgrid="true"
+     inkscape:zoom="39.333334"
+     inkscape:cx="14.001626"
+     inkscape:cy="13.587967"
      inkscape:window-x="182"
      inkscape:window-y="266"
      inkscape:window-maximized="0"
@@ -51,28 +51,13 @@
      inkscape:snap-grids="true"
      showguides="true"
      inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="2,12"
-       orientation="0,1"
-       id="guide3835"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="8.4133722,21.033431"
-       orientation="0,1"
-       id="guide3837"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="10.211101,19.559293"
-       orientation="0,1"
-       id="guide3839"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="14.813288,13.195332"
-       orientation="0,1"
-       id="guide3841"
-       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid144" />
   </sodipodi:namedview>
   <path
-     d="M 12 3 L 2 12 L 5 12 L 5 20 L 19 20 L 19 12 L 22 12 L 12 3 z M 11.972656 4.4628906 L 19.025391 10.804688 L 4.921875 10.804688 L 11.972656 4.4628906 z "
-     id="path3764" />
+     d="M 12,3 2,12 h 3 v 8 h 14 v -8 h 3 z M 12,4.2831177 19.50299,11 4.4966358,11 Z"
+     id="path3764"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc" />
 </svg>
